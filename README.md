@@ -37,6 +37,12 @@
   
 * Отредактируйте файл compose.yaml так, чтобы были запущенны оба файла.(было добавлено include:  - docker-compose.yaml) ![image](https://github.com/user-attachments/assets/da278070-5fd5-472e-a91f-69b33246f8d2)
 
+* В соответствии с рекомендациями задания задеплоил компоуз compose-custom-nginx ![image](https://github.com/user-attachments/assets/cc0bbb7b-e0ef-4665-a4c2-5a9446584c9c)
+
+* Cкриншот от поля "AppArmorProfile" до "Driver" d "inspect" d представлении <> Tree ![image](https://github.com/user-attachments/assets/d18b96e3-0873-4f93-b658-2374fa6ac830)
+
+* после удаления файла (compose.yaml) выполнено следующие ![image](https://github.com/user-attachments/assets/95a1f420-6892-4d69-8db3-7b3800e90781)
+
 
 
 
